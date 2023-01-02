@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sadhana !
 
-In becoming of a Full Stack Developer. My specialties lies in Java, DBMS and Spring boot. I use Eclipse IDE for my backend development and for the frontend development React JS is my first option. In constructing, the frontend counterpart, I have used ExtJS6 as well as HTML-CSS-JavaScript.
+I'm in a journey in becoming a Full Stack Developer. My specialties lies in Java, DBMS and Spring boot. I use Eclipse IDE for my backend development and for the frontend development React JS is my first option. In constructing, the frontend counterpart, I have used ExtJS6 as well as HTML-CSS-JavaScript.
 OOPs projects are my all time favorites.
 
 <!--

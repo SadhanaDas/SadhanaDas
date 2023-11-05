@@ -8,7 +8,8 @@ OOPs projects are my all time favorites.
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working as an intern at HighRadius Corporation Pvt. Ltd. 
+- Currently working as Associate Product Analyst at Conde Nast Technology Lab
+- 🔭 I worked as an intern at HighRadius Corporation Pvt. Ltd. 
 - 🌱 I’m currently learning ReactJS
 - 💬 Ask me about my work, new tech around the corner 
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/sadhana-das-4997851b9/)

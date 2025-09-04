@@ -13,7 +13,7 @@ Passionate about product analytics, business intelligence, and experimentation, 
 
 Here are some ideas to get you started: -->
 
-- Currently working as Associate Product Analyst at Conde Nast Technology Lab
+- Currently working as Product Analyst at Conde Nast Technology Lab
 - 🔭 I worked as an intern at HighRadius Corporation Pvt. Ltd. 
 - 🌱 I’m currently learning ReactJS
 - 💬 Ask me about my work, new tech around the corner 

@@ -21,5 +21,33 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Anything Worth Doing Always Starts as a Bad Idea
 
+## 🛠️ Skills
+
+### Analytics & Experimentation
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-4B8BBE?style=for-the-badge)
+![Funnel Analysis](https://img.shields.io/badge/Funnel_Analysis-306998?style=for-the-badge)
+![Experimentation](https://img.shields.io/badge/Experimentation-FFD43B?style=for-the-badge)
+![KPI Dashboarding](https://img.shields.io/badge/KPI_Dashboarding-1F6FEB?style=for-the-badge)
+![User Segmentation](https://img.shields.io/badge/User_Segmentation-0A66C2?style=for-the-badge)
+
+### Programming & Querying
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+### Analytics Tools
+![Mode Analytics](https://img.shields.io/badge/Mode_Analytics-1D1D1D?style=for-the-badge)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### Product & BI
+![Product Analytics](https://img.shields.io/badge/Product_Analytics-6C63FF?style=for-the-badge)
+![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-FF6B6B?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-00A8E8?style=for-the-badge)
+![KPI Monitoring](https://img.shields.io/badge/KPI_Monitoring-2ECC71?style=for-the-badge)
+
+### Currently Learning
+![React](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 <!-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->

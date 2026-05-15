@@ -46,8 +46,6 @@ Here are some ideas to get you started: -->
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-00A8E8?style=for-the-badge)
 ![KPI Monitoring](https://img.shields.io/badge/KPI_Monitoring-2ECC71?style=for-the-badge)
 
-### Currently Learning
-![React](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 <!-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->

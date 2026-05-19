@@ -40,6 +40,18 @@ Here are some ideas to get you started: -->
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+### Machine Learning & Modeling
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge)
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-6C63FF?style=for-the-badge)
+![Regression](https://img.shields.io/badge/Regression-00A8E8?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-2ECC71?style=for-the-badge)
+![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-F39C12?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-E74C3C?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-9B59B6?style=for-the-badge)
+![Topic Modeling](https://img.shields.io/badge/Topic_Modeling-1ABC9C?style=for-the-badge)
+![Clustering](https://img.shields.io/badge/Clustering-34495E?style=for-the-badge)
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-FF69B4?style=for-the-badge)
+
 ### Product & BI
 ![Product Analytics](https://img.shields.io/badge/Product_Analytics-6C63FF?style=for-the-badge)
 ![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-FF6B6B?style=for-the-badge)
